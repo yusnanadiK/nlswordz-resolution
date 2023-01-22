@@ -2,4 +2,7 @@
 - javascript backend
 - es6 javascript
 - framework javasript
+1. Vue JS
 - fundamental data structure
+- Php framework
+1. Laravel
