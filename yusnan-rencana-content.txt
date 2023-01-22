@@ -1,2 +1,4 @@
 - javascript fundamental
 - javascript backend
+- es6 javascript
+- framework javasript
